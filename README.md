@@ -22,8 +22,8 @@ curl https://us-central1-life-church-303612.cloudfunctions.net/lifeoc-events \
     -H "Content-Type: application/json" \
     -H "x-api-key: API_KEY" \
     -d '{
-        "title": "Sunday Service",
-        "start_date": "2024-10-06 10:15:00"
-        "end_date": "2024-10-06 10:15:00"
+        "title": "Bible Study",
+        "start_date": "2024-10-03 10:00:00",
+        "end_date": "2024-10-03 11:00:00"
     }'
 ```
